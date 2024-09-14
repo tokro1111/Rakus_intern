@@ -1,0 +1,24 @@
+{
+  "name": "hackathon-chatapp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.3",
+    "moment": "^2.30.1",
+    "socket.io": "^4.5.3",
+    "socket.io-client": "^4.5.3",
+    "uuid": "^10.0.0",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "vuetify": "^3.1.1"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
